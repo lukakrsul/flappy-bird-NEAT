@@ -36,7 +36,7 @@ To see a demonstration of the project in action, download the video file from th
 
 Below is a screenshot from the video to give you a quick preview:
 
-![Demo Screenshot]([path/to/screenshot.png](https://github.com/lukakrsul/flappy-bird-NEAT/blob/b56697fd4246cf74f07f4d88de82ae550615b32a/demo-img.png))
+![Demo Screenshot](https://github.com/lukakrsul/flappy-bird-NEAT/blob/main/demo-img.png?raw=true)
 
   
 
