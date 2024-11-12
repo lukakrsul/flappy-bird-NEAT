@@ -29,6 +29,15 @@ This project uses the **NEAT (NeuroEvolution of Augmenting Topologies)** algorit
 - **Inputs:** Bird’s y position, distance to top and bottom pipe's edge.
 - **Outputs:** AI decides when to flap.
 - **Fitness:** Based on survival time and pipes passed, encouraging longer survival with each generation.
+
+## Demo
+
+To see a demonstration of the project in action, download the video file from this repository and play it locally.
+
+Below is a screenshot from the video to give you a quick preview:
+
+![Demo Screenshot]([path/to/screenshot.png](https://github.com/lukakrsul/flappy-bird-NEAT/blob/b56697fd4246cf74f07f4d88de82ae550615b32a/demo-img.png))
+
   
 
 
