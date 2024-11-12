@@ -18,8 +18,8 @@ This project uses the **NEAT (NeuroEvolution of Augmenting Topologies)** algorit
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-neat
-   cd flappy-bird-neat
+   git clone https://github.com/lukakrsul/flappy-bird-NEAT.git
+   cd flappy-bird-NEAT
    pip install -r requirements.txt
 2. Adjust settings if needed in `settings.py`
 3. Run simulation
